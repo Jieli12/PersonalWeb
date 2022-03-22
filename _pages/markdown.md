@@ -1,8 +1,26 @@
+<!--
+ * Author         : Jie Li, Department of Statistics, London School of Economics.
+ * Date           : 2022-03-22 16:04:07
+ * Last Revision  : 2022-03-22 18:34:59
+ * Last Author    : Jie Li
+ * File Path      : /Jieli12.github.io/_pages/markdown.md
+ * Description    :
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * Copyright (c) 2022 by Jie Li, j.li196@lse.ac.uk
+ * All Rights Reserved.
+-->
 ---
 permalink: /markdown/
-title: "Markdown"
+title: “Markdown”
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
@@ -24,8 +42,8 @@ redirect_from:
 
 ## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Name a file ”.md” to have it render in markdown, name it ".html” to render in HTML.
+* Go to the [commit list](https://github.com/Jieli12/Jieli12.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -81,15 +99,15 @@ Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
 #dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+:   Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.
 
 Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+:   I’ll let Bill O’Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -103,8 +121,8 @@ Do It Live
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three
@@ -139,13 +157,13 @@ This is an example of a [link](http://github.com "Github").
 
 ### Abbreviation Tag
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+The abbreviation CSS stands for “Cascading Style Sheets”.
 
 *[CSS]: Cascading Style Sheets
 
 ### Cite Tag
 
-"Code is poetry." ---<cite>Automattic</cite>
+“Code is poetry.” ---<cite>Automattic</cite>
 
 ### Code Tag
 
@@ -191,11 +209,11 @@ This tag shows **bold text**.
 
 ### Subscript Tag
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.
 
 ### Superscript Tag
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.
 
 ### Variable Tag
 
