@@ -1,7 +1,7 @@
 ---
 title: Factorized Estimation of High Dimensional  Nonparametric Covariance Models
 collection: publications
-permalink: /publication/2021-03-08-Zhang-and-Li
+permalink: /publication/2021-03-08-Zhang-and-Li.md
 excerpt:
 date: 2021-03-08
 venue: Scandinavian Journal of Statistics
