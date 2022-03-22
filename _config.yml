@@ -81,12 +81,12 @@ author:
   name: "Your Sidebar Name"
   avatar: "Jie-LSE-1.jpg"
   bio: "Your biography for the left-hand sidebar"
-  location: "Location"
+  location: "London, UK"
   employer:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  email: "j.li196@lse.ac.uk"
+  researchgate: "https://www.researchgate.net/profile/Jie-Li-271"
   uri:
   bitbucket:
   codepen:
