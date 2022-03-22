@@ -1,21 +1,3 @@
-<!--
- * Author         : Jie Li, Department of Statistics, London School of Economics.
- * Date           : 2022-03-22 16:04:07
- * Last Revision  : 2022-03-22 18:35:01
- * Last Author    : Jie Li
- * File Path      : /Jieli12.github.io/_publications/2009-10-01-paper-title-number-1.md
- * Description    :
- *
- *
- *
- *
- *
- *
- *
- *
- * Copyright (c) 2022 by Jie Li, j.li196@lse.ac.uk
- * All Rights Reserved.
--->
 ---
 title: “Paper Title Number 1”
 collection: publications

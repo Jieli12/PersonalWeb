@@ -1,21 +1,3 @@
-<!--
- * Author         : Jie Li, Department of Statistics, London School of Economics.
- * Date           : 2022-03-22 16:04:07
- * Last Revision  : 2022-03-22 18:34:59
- * Last Author    : Jie Li
- * File Path      : /Jieli12.github.io/_pages/markdown.md
- * Description    :
- *
- *
- *
- *
- *
- *
- *
- *
- * Copyright (c) 2022 by Jie Li, j.li196@lse.ac.uk
- * All Rights Reserved.
--->
 ---
 permalink: /markdown/
 title: “Markdown”
@@ -42,7 +24,7 @@ redirect_from:
 
 ## Tips and hints
 
-* Name a file ”.md” to have it render in markdown, name it ".html” to render in HTML.
+* Name a file ”.md” to have it render in markdown, name it ”.html” to render in HTML.
 * Go to the [commit list](https://github.com/Jieli12/Jieli12.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
   * Orange circle: building
