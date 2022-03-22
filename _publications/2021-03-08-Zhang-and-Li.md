@@ -5,8 +5,8 @@ permalink: /publication/2021-03-08-Zhang-and-Li
 excerpt:
 date: 2021-03-08
 venue: 'Scandinavian Journal of Statistics'
-paperurl: '/files/2021-03-08-Zhang-and-Li.pdf'
-github: 'https://github.com/Jieli12'
+paperurl: https://Jieli12.github.io//files/2021-03-08-Zhang-and-Li.pdf
+github: https://github.com/Jieli12
 citation: Jian Zhang and <b>Jie Li</b>. Factorized estimation of high-dimensional nonparametric covariance models. <i>Scandinavian Journal of Statistics (2021)</i>.
 ---
 [[PDF]](https://Jieli12.github.io/files/2021-03-08-Zhang-and-Li.pdf)
